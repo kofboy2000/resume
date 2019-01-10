@@ -1,0 +1,21 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+
+- organization: IBM Campus Wizard
+  role: Member
+  year: 2010
+  url: http://www.ibm.com/developerworks/kr
+  summary: International activity
+
+- organization: CLT Dreamers
+  role: President
+  year: 2007 
+  url: https://www.cyberlogitec.com/
+  summary: Voluntary service
+
+- organization: Chung-Ang Univ Tenis Club Love4T
+  role: President
+  year: 2007 
+  url: 
+  summary: Tenis club in Chung-Ang Univ
