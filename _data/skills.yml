@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
+# Main
 - skill: Android app development
   description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Second
+- skill: Python & R
+  description: As studying AI and statistics for personal interests, I can use of python and R to analys data and build basic deep learning models such as CNN and RNN by using Keras, tensorflow, Numpy, Pandas and scikit-learn.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Third
+- skill: Jenkins, Perforce, Git
+  description: Have an experience of build a automative android test server for my team by Jenkins interwork with Perforce and Gerrit. Comfortable with build CI system by Jenkins and use of Perforce and Git.

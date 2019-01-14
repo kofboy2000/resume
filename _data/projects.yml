@@ -3,14 +3,35 @@
 
 # Device maintenance
 - project: Device maintenance
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: 
+  role: Primary Developer & Sub technical leader
+  duration: 2015 &mdash; Present
+  url: https://play.google.com/store/apps/details?id=com.samsung.android.lool
+  description: Basic android application that maintain smart phone.
 
-# Springfield Community Outreach Group
-- project: Udacity Nanodgree
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: 
+# Patent
+- project: US20170311359A1, Method for connecting to external devices and electronic device implementing the same
+  role: Primary Developer
+  duration: 2015 &mdash; 2017
+  url: https://patents.google.com/patent/US20170311359A1/en?oq=US20170311359A1+
+  description: Patent, US20170311359A1.
+
+# Settings
+- project: Settings
+  role: Developer
+  duration: 2014 &mdash; 2015
+  #url: "#"
+  description: Basic android settings application.
+
+# Patent
+- project: US20150062046A1, Apparatus and method of setting gesture in electronic device
+  role: Primary Developer
+  duration: 2014 &mdash; 2015
+  url: https://patents.google.com/patent/US20150062046A1/en?q=Apparatus&q=method&q=setting&q=gesture&q=electronic&q=device&oq=Apparatus+and+method+of+setting+gesture+in+electronic+device+
+  description: Patent, US20150062046A1
+
+# Accessiblity
+- project: Accessiblity features in Samsung mobile devices
+  role: Associate Developer
+  duration: 2013 &mdash; 2014
+  #url: "#"
+  description: Participated in developting Accessiblity apps and framework for android such as "Access control", "TalkBack", "Accessiblity services" and etc.

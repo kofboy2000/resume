@@ -3,16 +3,26 @@
 - company: Samsung Electronics Mobile division
   position: Staff Engineer
   duration: Jan, 2012 &mdash; Present
-  summary: Develop android basic application load on Samsung mobile devices such as	<ul class="resume-item-list"><li>Device maintenance</li><li>Settings</li><li>Accessiblity apps</li><li>Hidden system apps</li></ul>
+  summary: Develop android basic application load on Samsung mobile devices.
+  I joined Samsung on 2012 as an Associate Engineer and promoted to Engineer in 2015 which is a year fatster then normal case.
+  In 2018 promoted to Staff Engineer which is also a year faster then others. I started work for software code management team for a year
+  and moved to application team in 2013. I Participated in developing Samsung applications include Device maintenance, Settings,
+  Accessiblity system and many of hidden system apps.
 
 # Internship
 - company: KT (Korea Telecom)
   position: Internship
-  duration:  Winter, 2011
+  duration: Winter, 2011
   summary: Participated intership program provided by Samsung and worked for technical sales team.
 
 # Internship
 - company: Samsung Electronics
   position: Intern
-  duration:   Winter, 2010
+  duration: Winter, 2010
   summary: Participated intership program provided by Samsung and worked for network protocol team.
+
+# Internship
+- company: Image processing lab in Chung-Ang university
+  position: Undergraduate research student
+  duration: Summer, 2010
+  summary: Selected as a Undergraduate research student for image processing lab in Chung-Ang university.
