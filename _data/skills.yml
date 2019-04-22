@@ -1,12 +1,16 @@
 # Skills
 # Main
-- skill: Android app development
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Android
+  description: Experiences of developing and architecturing android applications. Familiar with architectures such as MVP, MVVM also anroid architecture components - ViewModel, Livedata and etc. Trying to write clean codes. Highly interested in latest tech skills and open source libraires. 
 
 # Second
 - skill: Python & R
-  description: As studying AI and statistics for personal interests, I can use of python and R to analys data and build basic deep learning models such as CNN and RNN by using Keras, tensorflow, Numpy, Pandas and scikit-learn.
+  description: Studying AI and statistics for personal interests. Using python and R to analys data and build basic deep learning models such as CNN and RNN with Keras, tensorflow, Numpy, Pandas and scikit-learn.
 
 # Third
 - skill: Jenkins, Perforce, Git
   description: Have an experience of build a automative android test server for my team by Jenkins interwork with Perforce and Gerrit. Comfortable with build CI system by Jenkins and use of Perforce and Git.
+
+# Fourth
+- skill: Leadership
+  description: Experiences of leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.

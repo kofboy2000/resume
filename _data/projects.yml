@@ -3,14 +3,14 @@
 
 # Device maintenance
 - project: Device maintenance
-  role: Primary Developer & Sub technical leader
+  role: Senior Developer
   duration: 2015 &mdash; Present
   url: https://play.google.com/store/apps/details?id=com.samsung.android.lool
-  description: Basic android application that maintain smart phone.
+  description: Primary android application that maintain smart phone.
 
 # Patent
 - project: US20170311359A1, Method for connecting to external devices and electronic device implementing the same
-  role: Primary Developer
+  role: Senior Developer
   duration: 2015 &mdash; 2017
   url: https://patents.google.com/patent/US20170311359A1/en?oq=US20170311359A1+
   description: Patent, US20170311359A1.
@@ -20,18 +20,25 @@
   role: Developer
   duration: 2014 &mdash; 2015
   #url: "#"
-  description: Basic android settings application.
+  description: Preloaded Samsung settings application.
 
 # Patent
 - project: US20150062046A1, Apparatus and method of setting gesture in electronic device
-  role: Primary Developer
+  role: Senior Developer
   duration: 2014 &mdash; 2015
   url: https://patents.google.com/patent/US20150062046A1/en?q=Apparatus&q=method&q=setting&q=gesture&q=electronic&q=device&oq=Apparatus+and+method+of+setting+gesture+in+electronic+device+
   description: Patent, US20150062046A1
 
 # Accessiblity
 - project: Accessiblity features in Samsung mobile devices
-  role: Associate Developer
+  role: Developer
   duration: 2013 &mdash; 2014
   #url: "#"
-  description: Participated in developting Accessiblity apps and framework for android such as "Access control", "TalkBack", "Accessiblity services" and etc.
+  description: Participated in developting Accessiblity apps and framework for android.
+
+# SCM
+- project: Source code management
+  role: SCM
+  duration: 2012
+  #url: "#"
+  description: Source code management for Galaxy devices
