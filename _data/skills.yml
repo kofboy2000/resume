@@ -4,8 +4,8 @@
   description: Experiences of developing and architecturing android applications. Familiar with architectures such as MVP, MVVM also anroid architecture components - ViewModel, Livedata and etc. Trying to write clean codes. Highly interested in latest tech skills and open source libraires. 
 
 # Second
-- skill: Python & R
-  description: Studying AI and statistics for personal interests. Using python and R to analys data and build basic deep learning models such as CNN and RNN with Keras, tensorflow, Numpy, Pandas and scikit-learn.
+- skill: Python
+  description: Studying AI and statistics from Graduate School for Master's degree. Using python to analys data and build deep learning models such as CNN and RNN with Keras, tensorflow, Numpy, Pandas and scikit-learn.
 
 # Third
 - skill: Jenkins, Perforce, Git
