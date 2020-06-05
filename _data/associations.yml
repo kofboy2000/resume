@@ -1,6 +1,12 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: 
+  role: Reviewer
+  year: Present
+  url: https://www.edwith.org/boostcourse-android/
+  summary: Code reviewer of lecture projects
+
 - organization: IBM Campus Wizard
   role: Member
   year: 2010
