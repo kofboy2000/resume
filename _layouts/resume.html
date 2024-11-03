@@ -145,8 +145,8 @@
 
         {% for research in site.data.researchs %}
         <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">{{ research.award }}</h3>
-          <h4 class="resume-item-details">{{ research.organization }} &bull; {{ research.year }}</h4>
+          <h3 class="resume-item-title" itemprop="project">{{ research.project }}</h3>
+          <h4 class="resume-item-details">{{ research.organization }} &bull; {{ research.duration }}</h4>
           <p class="resume-item-copy">{{ research.summary }}</p>
         </div>
         {% endfor %}
