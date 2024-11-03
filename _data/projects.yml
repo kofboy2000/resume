@@ -1,11 +1,11 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
-- name: Bixby AI Voice Assistant Development
+- project: Bixby AI Voice Assistant Development
   role: Staff Engineer
   duration: Mar 2022 — Present
   description: Developing natural language generation (NLG) and internet search features for Samsung’s AI Voice Assistant Bixby, enhancing user interaction and search capabilities.
 
-- name: Android System, Framework, and Application Development for Samsung Devices
+- project: Android System, Framework, and Application Development for Samsung Devices
   role: Senior Developer
   duration: 2013 — 2020
   description: description: Developed and led multiple projects related to Samsung Galaxy devices, including Device Care, System and Accessibility Feature and Etc.
