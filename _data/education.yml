@@ -2,5 +2,6 @@
 - degree: Master of Intelligence and Information Sciences
   uni: Seoul National University
   year: 2020.3 &mdash; 2022.3
-  awards: Published and presented a paper at the BigComp conference in 2022.
+  awards: 
+    - award: Published and presented a paper at the BigComp conference in 2022.
   summary: Focused on AI, contributing to research in NLP and Next App Usage Prediction.
