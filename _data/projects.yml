@@ -1,44 +1,15 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
+- project: Bixby AI Voice Assistant Development
+  role: Staff Engineer
+  duration: Mar 2022 — Present
+  description: Developing natural language generation (NLG) and internet search features for Samsung’s AI Voice Assistant Bixby, enhancing user interaction and search capabilities.
 
-# Device maintenance
-- project: Device maintenance
+- project: Android System, Framework, and Application Development for Samsung Devices
   role: Senior Developer
-  duration: 2015 &mdash; 2020
-  url: https://play.google.com/store/apps/details?id=com.samsung.android.lool
-  description: Primary android application that maintain smart phone.
+  duration: 2013 — 2020
+  description: Developed and led multiple projects related to Samsung Galaxy devices, including:
+    - Device Maintenance Application: Led the development of a core Android application to optimize smartphone performance and enhance user experience.
+    - System and Accessibility Features: Contributed to Samsung Settings and accessibility features, focusing on user configuration management and inclusivity improvements.
+    - Extensive experience in Android system, framework, and core application development, ensuring high-quality performance and usability across Galaxy devices.
 
-# Patent
-- project: US20170311359A1, Method for connecting to external devices and electronic device implementing the same
-  role: Senior Developer
-  duration: 2015 &mdash; 2017
-  url: https://patents.google.com/patent/US20170311359A1/en?oq=US20170311359A1+
-  description: Patent, US20170311359A1.
-
-# Settings
-- project: Settings
-  role: Developer
-  duration: 2014 &mdash; 2015
-  #url: "#"
-  description: Preloaded Samsung settings application.
-
-# Patent
-- project: US20150062046A1, Apparatus and method of setting gesture in electronic device
-  role: Senior Developer
-  duration: 2014 &mdash; 2015
-  url: https://patents.google.com/patent/US20150062046A1/en?q=Apparatus&q=method&q=setting&q=gesture&q=electronic&q=device&oq=Apparatus+and+method+of+setting+gesture+in+electronic+device+
-  description: Patent, US20150062046A1
-
-# Accessiblity
-- project: Accessiblity features in Samsung mobile devices
-  role: Developer
-  duration: 2013 &mdash; 2014
-  #url: "#"
-  description: Participated in developting Accessiblity apps and framework for android.
-
-# SCM
-- project: Source code management
-  role: SCM
-  duration: 2012
-  #url: "#"
-  description: Source code management for Galaxy devices
