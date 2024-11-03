@@ -1,26 +1,20 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: 
-  role: Reviewer
-  year: Present
+- organization: BoostCourse
+  role: Android Reviewer
+  year: 2020 — 2023
   url: https://www.edwith.org/boostcourse-android/
-  summary: Code reviewer of lecture projects
+  summary: Code reviewer for Android lecture projects, contributing to the improvement of Android learning resources.
 
-- organization: IBM Campus Wizard
-  role: Member
-  year: 2010
-  url: http://www.ibm.com/developerworks/kr
-  summary: Participated in marketing program by IBM Korea.
+- organization: BoostCourse Coaching Study
+  role: Lead Instructor
+  year: 2021 — Present
+  url: https://www.boostcourse.org/coachingstudy
+  summary: Main live instructor for BoostCourse Coaching Study. Delivered numerous live lectures on Python, Data Science, and AI, participating in multiple cohorts from the first to the current cohort.
 
-- organization: CLT Dreamers
-  role: Member
-  year: 2010
-  url: https://www.cyberlogitec.com/
-  summary: Participated in IT volunteer activity in Vietnam.
-
-- organization: Chung-Ang Univ Tenis Club Love4T
-  role: President
-  year: 2007
-  url:
-  summary: Served as a president. Held one of biggest tennis competition for university clubs in Seoul.
+- organization: Samsung Electronics DS Division
+  role: Teaching Assistant
+  year: 2021, 2022
+  url: 
+  summary: Participated as a teaching assistant in Data Science courses for Samsung Electronics DS Division, supporting lectures in 2021 and 2022.
