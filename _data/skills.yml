@@ -5,3 +5,15 @@
     Skilled in leveraging Hugging Face transformers for large language model (LLM) fine-tuning, with a focus on evaluating and improving natural language generation (NLG) systems.
     Conducted NLG evaluation using LLMs to enhance the conversational quality and accuracy of AI models.
     Proficient in using Python for data analysis, feature engineering, and automation, with tools such as Pandas, NumPy, and Scikit-Learn to preprocess data and build models.
+
+- skill: Android Development
+  description: >
+    Over 8 years of experience in developing and architecting Android applications for Samsung Galaxy devices.
+    Expert in modern Android architectures including MVP, MVVM, and Android Architecture Components (ViewModel, LiveData, etc.).
+    Proven track record of delivering high-quality, maintainable code, with a focus on optimizing user experience and integrating the latest technologies.
+
+- skill: CI/CD & Automation
+  description: >
+    Designed and managed CI/CD pipelines for automated testing and deployment of Android applications using Jenkins, Git, and Perforce.
+    Built a fully automated Android testing server to streamline the development process and ensure high-quality releases.
+    Expertise in integrating automated workflows, enabling continuous integration and rapid iteration cycles.
